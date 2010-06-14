@@ -1,0 +1,70 @@
+8
+
+dir
+98
+file:///spattendesign/svn/plugins/run_tests_on_deploy
+file:///spattendesign/svn
+
+
+
+2007-10-23T23:21:27.353579Z
+12
+spatten
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+37393930-b73c-0410-a8d9-b271098994a0
+
+doc
+dir
+
+META.yml
+file
+
+
+
+
+2010-06-14T05:58:24.000000Z
+349e9d8116d0740bcf75580768bd2c3b
+2007-10-23T23:21:27.353579Z
+12
+spatten
+
+MIT-LICENSE
+file
+
+
+
+
+2010-06-14T05:58:24.000000Z
+eb7cf3dbd44f195bea2706f5b3ec9b5f
+2007-10-18T00:35:19.405947Z
+5
+spatten
+
+recipes
+dir
+
+README
+file
+
+
+
+
+2010-06-14T05:58:24.000000Z
+4295d66b5c1c6ecae67fd83d3461e4ab
+2007-10-19T16:29:00.009898Z
+9
+spatten
+
