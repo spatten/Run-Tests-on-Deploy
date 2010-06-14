@@ -2,4 +2,7 @@ run_tests_on_deploy is a Capistrano 2.0 extension that runs all of your tests be
 
 Installation and usage instructions are in doc/index.html.
 
+Please note that this code hasn't been used in years, so it probably won't work with the latest versions of Capistrano and/or Rails.  Let me know if you do get something working, and feel free to send me a pull request.
+
 Scott Patten
+scott@spattendesign.com
